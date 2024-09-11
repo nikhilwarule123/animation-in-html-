@@ -12,6 +12,7 @@ header {
     url("../official.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
 }
 
 nav {
@@ -123,18 +124,23 @@ section .btntwo {
   0% {
     content: "Darjeeling";
   }
+
   20% {
     content: "Agra";
   }
+
   35% {
     content: "Jaipur";
   }
+
   60% {
     content: "kerala";
   }
+
   80% {
     content: "delhi";
   }
+
   100% {
     content: "Mumbai";
   }
